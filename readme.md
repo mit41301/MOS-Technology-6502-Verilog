@@ -28,5 +28,6 @@ You can find it <a href="http://searle.x10host.com/6502/osi_bas.zip" target="_bl
 
 <a href="https://www.linkedin.com/pulse/creiamo-insieme-un-microcomputer-anni-80-basic-usando-davide-nardella-51osf" target="_blank">Italian version</a>
 
+<img width="790" height="287" alt="MOS_6502AD_4585_top" src="https://github.com/user-attachments/assets/80ef2264-5cbc-42a4-bd8e-403def2a21ff" />
 
 *Have fun*
